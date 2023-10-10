@@ -1,1 +1,1 @@
-# lSTM_Practice
+# lSTM Practice using Yahoo stock price data 
